@@ -11,7 +11,9 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/engividal/tobehero">
   
-  <a href="https://www.codacy.com/manual/engividal/tobehero?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engividal/tobehero&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/af7ef38b79414492844663ebbbf4e21b"/></a>
+  <a href="https://www.codacy.com/manual/engividal/tobehero?    utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engividal/tobehero&amp;utm_campaign=Badge_Grade">
+  <img src="https://api.codacy.com/project/badge/Grade/af7ef38b79414492844663ebbbf4e21b"/>
+  </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/engividal/tobehero">
   
@@ -39,7 +41,7 @@
   <a href="https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Tobehero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fengividal%2Ftobehero%2Fmaster%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
-< img alt="Layout" src=".github/tobehero.png" />
+<img alt="Layout" src=".github/tobehero.png" />
 
 ## 📋 Projeto
 
@@ -138,7 +140,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ## 🙏 Agradecimentos 
 
-CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)
-Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)
-Template do README.md [EliasGcf](https://www.linkedin.com/in/eliasgcf/)
+<p>CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)</p>
+<p>Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)</p>
+<p>Template do README.md [EliasGcf](https://www.linkedin.com/in/eliasgcf/)</p>
+<p>Apoio na geração das telas [Sth](https://www.linkedin.com/in/sthefany-freitas-9130991a3/)</p>
 
