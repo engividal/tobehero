@@ -140,8 +140,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ## 🙏 Agradecimentos 
 
-<p>CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)</p>
-<p>Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)</p>
-<p>Template do README.md [EliasGcf](https://www.linkedin.com/in/eliasgcf/)</p>
-<p>Apoio na geração das telas [Sth](https://www.linkedin.com/in/sthefany-freitas-9130991a3/)</p>
+- CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)
+- Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)
+- Template do README.md [EliasGcf](https://www.linkedin.com/in/eliasgcf/)
+- Apoio na geração das telas [Sth](https://www.linkedin.com/in/sthefany-freitas-9130991a3/)
 
