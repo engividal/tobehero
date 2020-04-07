@@ -47,9 +47,9 @@
 
 Aplicação completa utilizando a Stack do Javascript. O objetivo da aplicação é permitir que ONGs possam cadastrar casos a serem visualizados pelo possíveis voluntários que queiram colaborar. 
 
-O Frontend Web permite o cadastro de novas ONGs e novos Casos pela interface web. Os casos possuem detalhes para auxiliar quem tiver interesse em ajudar e entrar em contato com as ONGs.
+O Frontend Web permite o cadastro de novas ONGs e novos Casos. Os casos possuem detalhes para auxiliar quem tiver interesse em ajudar e entrar em contato com as ONGs.
 
-O aplicativo é voltado para o usuário final, possível voluntário, que poderá visualizar todos os casos disponíveis e entrar em contato com a organização que criou o caso.  
+O aplicativo é voltado para o usuário final, possível voluntário, que poderá visualizar todos os casos disponíveis e entrar em contato com a organização que criou o caso via e-mail ou whatsapp.  
 
 ## 🔝 Tecnologias
 
